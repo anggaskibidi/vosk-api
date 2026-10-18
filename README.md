@@ -19,7 +19,7 @@ virtual assistants. It can also create subtitles for movies,
 transcription for lectures and interviews.
 
 Vosk scales from small devices like Raspberry Pi or Android smartphone to
-big clusters.
+big clusters..
 
 # Documentation
 
